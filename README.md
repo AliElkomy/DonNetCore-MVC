@@ -1,4 +1,4 @@
-# DonNetCore-MVC-
+# DonNetCore-MVC
 Example for DotNet core MVC app 
 ## contians :
 * MVC
